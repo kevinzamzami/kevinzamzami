@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin Zamzami A.K.A @z3uscode 
+- 👋 Hi, I’m Kevin Zamzami
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Mern Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web Development
