@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin Zamzami
-- 👀 I’m interested in Web Development and Machine Learning
+- 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning Mern Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Follow my Instagram @kevinnzm
